@@ -2,7 +2,7 @@
 A Python library for calculating quantum graph states
 
 A graph state is a pure multipartite quantum state defined for a distributed quantum system.
-A graph state ![alt text][graph-state] can be defined in many ways.
+A graph state ![alt text][graph-state] for a graph G = (V, E) can be defined in many ways.
 
 [graph-state]:https://wikimedia.org/api/rest_v1/media/math/render/svg/400c00a32208beba543bbd67fdb9d01edcfd1918
 
