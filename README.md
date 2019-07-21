@@ -7,16 +7,16 @@ A graph state can be defined in many ways.
 1. Stabilizer based definition:
 
 Let's define an operator
-![alt text][opeartor]
 
-[opeartor]: https://wikimedia.org/api/rest_v1/media/math/render/svg/ae08752ea63fa096226bdd346e3b420069fd452e "Operator" 
 
 Then graph State G can be defined as 
 
 
 2. Interaction definition
 
+![alt text][interaction-def]
 
+[interaction-def]: https://wikimedia.org/api/rest_v1/media/math/render/svg/ae08752ea63fa096226bdd346e3b420069fd452e "Operator" 
 
 There are several important opeartions related to a graph state.
 QGraph implements following.
