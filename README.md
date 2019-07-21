@@ -27,9 +27,9 @@ Here, ![alt text](https://wikimedia.org/api/rest_v1/media/math/render/svg/a0047d
 There are several important opeartions related to a graph state.
 QGraph implements following.
 1. Controlled-Z
-	By applying a controlled-Z measurement between two qubits:
-		If an edge already exists between the qubits, it is removed.
-		Otherwise, an edge is added.
+   By applying a controlled-Z measurement between two qubits:
+      * If an edge already exists between the qubits, it is removed.
+      * Otherwise, an edge is added.
 	
 2. Z measurement
 	By measuring a qubit in Z basis removes that qubit(vertex) and all its edges.
