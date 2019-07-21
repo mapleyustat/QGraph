@@ -1,12 +1,15 @@
 # QGraph
 A Python library for calculating quantum graph states
 
-A graph state is a puare multipartite quantum state defined for a distributed quantum system.
+A graph state is a pure multipartite quantum state defined for a distributed quantum system.
 A graph state can be defined in many ways.
 
 1. Stabilizer based definition:
 
-Let's define an operator 
+Let's define an operator
+![alt text][opeartor]
+
+[logo]: https://wikimedia.org/api/rest_v1/media/math/render/svg/ae08752ea63fa096226bdd346e3b420069fd452e "Operator" 
 
 Then graph State G can be defined as 
 
