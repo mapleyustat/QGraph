@@ -9,8 +9,7 @@ A graph state ![alt text][graph-state] can be defined in many ways.
 1. Stabilizer based definition:
 
 Let's define an operator
-![alt text][stabilizer]
-[stabilizer]:https://wikimedia.org/api/rest_v1/media/math/render/svg/17d5b8a474504396d2b54da0790e15bf9f6f95f7
+![alt text](https://wikimedia.org/api/rest_v1/media/math/render/svg/17d5b8a474504396d2b54da0790e15bf9f6f95f7)
 
 where ![alt text](https://wikimedia.org/api/rest_v1/media/math/render/svg/081d5c8414c5ff43d1f73fb79f98fc35af073ed0) are the Pauli matrices and N(v) is the set of vertices adjacent to v.
 These ![alt text](https://wikimedia.org/api/rest_v1/media/math/render/svg/92feed1a3e76a5a2bf8233f7376f6ddb932807f3) form a complete set of commuting observables (CSCO). Then we can define graph state ![alt text][graph-state] as the eigen state ![alt text](https://wikimedia.org/api/rest_v1/media/math/render/svg/565ab2a736812d2720cd19246e95133aae9d217b)
