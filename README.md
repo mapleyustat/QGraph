@@ -26,16 +26,13 @@ Here, ![alt text](https://wikimedia.org/api/rest_v1/media/math/render/svg/a0047d
 
 There are several important opeartions related to a graph state.
 QGraph implements following.
-1. Controlled-Z
-   By applying a controlled-Z measurement between two qubits:
+1. Controlled-Z: by applying a controlled-Z measurement between two qubits:
       * If an edge already exists between the qubits, it is removed.
       * Otherwise, an edge is added.
 	
-2. Z measurement
-	By measuring a qubit in Z basis removes that qubit(vertex) and all its edges.
+2. Z measurement: by measuring a qubit in Z basis removes that qubit(vertex) and all its edges.
 
-3. Local complementation
-	Appplying opeartor for local complementation to a qubit/node a is equivalent to calculating the graph state where, we remove all the existing edges between the neighbours of a and add missing edges. 
+3. Local complementation: by appplying opeartor for local complementation to a qubit/node a is equivalent to calculating the graph state where, we remove all the existing edges between the neighbours of a and add missing edges. 
 
 
 
