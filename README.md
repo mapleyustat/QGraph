@@ -9,7 +9,7 @@ A graph state can be defined in many ways.
 Let's define an operator
 ![alt text][opeartor]
 
-[logo]: https://wikimedia.org/api/rest_v1/media/math/render/svg/ae08752ea63fa096226bdd346e3b420069fd452e "Operator" 
+[opeartor]: https://wikimedia.org/api/rest_v1/media/math/render/svg/ae08752ea63fa096226bdd346e3b420069fd452e "Operator" 
 
 Then graph State G can be defined as 
 
