@@ -37,3 +37,7 @@ QGraph implements following.
 
 
 How to use:
+
+Currently a pip installation is unavailable. Therefore, you may need to add the modules directory or the QGraph.py source file to your project to use it. You may also need to have installed NetworkX.
+
+
